@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://julianppedrazzi.github.io/sitemap.xml
+Sitemap: https://julianppe.github.io/sitemap.xml
